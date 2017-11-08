@@ -5,8 +5,6 @@
  */
 var width = 100;
 
-var nsquareToDraw = null;
-
 var squareSize = 3;
 function NSquare(canvas) {
 	// an svg element into which the puzzle will be drawn
